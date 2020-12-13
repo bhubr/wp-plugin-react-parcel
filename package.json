@@ -10,6 +10,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "dependencies": {
+    "colornames": "^1.1.1",
+    "hex-rgb": "^4.2.0",
+    "lodash.padend": "^4.6.1",
+    "lodash.trimstart": "^4.5.1",
+    "lodash.words": "^4.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "rgb-hex": "^3.0.0",
+    "string-to-color": "^2.2.2"
   }
 }
